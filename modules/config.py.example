@@ -1,7 +1,7 @@
 prefs = {
 	"log_directory": "logs",
 	"downloads_directory": "downloads",
-	"artist_folders": True,
+	"artist_folddddders": True,
 	"cover_size": "500",
 	"cover_name": "cover.jpg",
 	"lyrics_type": "N",
